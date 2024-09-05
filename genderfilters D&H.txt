@@ -1,0 +1,101 @@
+Certainly! Let's define the conditions for each combination of main gender and subgender selections:
+
+If the user selects:
+
+Main gender: "Male"
+Subgender: "Bisexual"
+Potential friends can be either "Male" or "Female" and can identify as "Straight," "Bisexual," or "Gay."
+If the user selects:
+
+Main gender: "Male"
+Subgender: "Gay"
+Potential friends should be "Male" and identify as "Gay."
+If the user selects:
+
+Main gender: "Female"
+Subgender: "Bisexual"
+Potential friends can be either "Male" or "Female" and can identify as "Straight," "Bisexual," or "Gay."
+If the user selects:
+
+Main gender: "Female"
+Subgender: "Straight"
+Potential friends should be "Male" and identify as "Straight."
+If the user selects:
+
+Main gender: "Female"
+Subgender: "Gay"
+Potential friends should be "Female" and identify as "Gay."
+If the user selects:
+
+Main gender: "Non binary"
+Subgender: "Straight"
+Potential friends can be any gender and identify as "Straight."
+If the user selects:
+
+Main gender: "Non binary"
+Subgender: "Bisexual"
+Potential friends can be any gender and identify as "Straight," "Bisexual," or "Gay."
+If the user selects:
+
+Main gender: "Non binary"
+Subgender: "Gay"
+Potential friends can be any gender and identify as "Gay."
+If the user selects:
+
+Main gender: "Trans Male to Female"
+Subgender: "Straight," "Bisexual," or "Gay"
+Potential friends should be "Female" and identify with the selected subgender.
+If the user selects:
+
+Main gender: "5:47 PM 2/10/20245:47 PM 2/10/20245:47 PM 2/10/2024"
+Subgender: "Straight," "Bisexual," or "Gay"
+Potential friends should be "Male" and identify with the selected subgender.
+
+
+
+
+Brains Conditions:
+Bi – guys: -
+Default filters: will be able to gay guys, non- bionary, Tran (both options) 
+
+Advance filters: can chose bi girls and bi guys, gay guys and trans (both) (all open except no straight guys and no lesbians)
+ 
+Straight girls: -
+Default filters: will be able to see Straight guys 
+Advance filters: can chose bi guy and trans (both)
+(All open except no gay guys)
+
+Gay girls: -
+Default filters: will be able to see gay girls, bi girls, trans (both)
+Advance filters: can chose bi girls and trans (both) can choose all options just no gay guys 
+
+Bi – girls: -
+Default filters: will be able to see Straight guys
+
+Advance filters: can chose bi girls and bi guys, and trans (both), open to everything but  they can’t choose gay guys
+ 
+All trans, non-bio nary by default: will see all trans, non-bioanary 
+
+Adanced filter : Can’t filter to straight guys or girls but open to everything else
+
+Iater on (dates and honey 3.0)  we should ask what options people are not ok with so we take them out if that pool of people
+
+
+
+
+
+
+
+
+
+
+letar changes :
+change male-straight see male = only show male guy, bisexual
+minimum 18
+chnage home page text into 'Your social life made sweeter'
+Live tracking for Dating mode
+After the distance it show currentlocation
+change whole world into world wide and Add check box after this miles dont need all our world user shows
+change cople option in throuple option also add not interested 'Throuple ?'
+Change crew app logo from appstore, playstore (light blue, Change logo D&H into crew)
+Add text on main image on app and playstore(Invite Only, Youre Invited)

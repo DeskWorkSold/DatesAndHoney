@@ -1,0 +1,83 @@
+email: datesandhoney0123@gmail.com
+pass: Datesandhoney@123
+hostinger-pass:Datesandhoney@123
+privacypolicy : https://www.privacypolicies.com/live/30e721a3-c8a4-4ff0-aa69-82a0c97526bb
+
+appleDeveloper:
+id: Briansphone123@gmail.com,
+pass: Aziz$2626 / Mailbox$26 / Desk$2626 / Aziz$2626 / Aziz$26 / Aziz$262626
+git key = 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
+
+Datesandhoney@123
+keystorepass:Datesandhoney@123
+first last name : Dates Honey
+organization unit : IT
+organization : Desk Work
+city: US
+State:Newyork
+counstry code :US
+Is CN=Dates Honey, OU=IT, O=Desk Work, L=US, ST=Newyork, C=US correct?
+
+https://www.privacypolicies.com/live/ad032f87-1cd2-4a51-a16a-91f63205e6a6
+
+Guideline 3.1.1 - Business - Payments - In-App Purchase
+
+Dear Apple App Review Team,
+
+I hope this reply finds you well. I'm writing to discuss an issue we've encountered regarding our app's subscription model and its 
+compliance with App Store guidelines.
+
+Our app, Dates And Honey, is a B2B platform designed to serve business clients. We recently received feedback regarding Guideline 
+3.1.1 - Business - Payments - In-App Purchase, specifically related to the use of payment mechanisms other than in-app purchase for 
+membership subscriptions.
+
+We understand and respect Apple's policies regarding in-app purchases. However, due to the nature of our app and the preferences of our 
+business clients, we've implemented a payment system using Stripe to deposit funds into a user's wallet within the app. This wallet 
+system allows our users to manage their finances conveniently within the app environment.
+
+While users can use these funds to access various features and services within the app, including membership subscriptions, we've 
+encountered limitations with integrating Apple Pay for in-app purchases. Our clients prefer the flexibility and familiarity of using 
+Stripe, especially in a B2B context.
+
+We'd like to highlight that our app caters primarily to businesses and professionals, rather than individual consumers. The subscription 
+model we've implemented is tailored to meet the unique needs and workflows of our business clients, ensuring a seamless experience 
+conducive to their operations.
+
+We kindly request clarification on aligning our subscription model with Apple's guidelines while preserving the functionality and user 
+experience valued by our business clients.
+
+
+Guideline 4.0 - Design
+Thank you for addressing the issue by revising the Sign in with Apple experience in your app and uploading a new build along with a demo 
+video. We appreciate your prompt action in resolving this matter.
+
+The revised Sign in with Apple experience now aligns with the design and user experience requirements outlined in Guideline 4.0. Users no 
+longer need to provide their name and/or email address after using Sign in with Apple, as this information is already provided by the Authentication Services framework.
+
+Your attention to detail ensures a consistent and seamless experience for users who choose Sign in with Apple to authenticate or log in 
+to their accounts. Thank you for your cooperation in maintaining the quality and integrity of the user experience within our platform.
+
+We value your input and are dedicated to ensuring the compliance and quality of our app on the App Store. If you have any further 
+questions or feedback, please don't hesitate to reach out.
+
+Thank you for your continued support.
+
+Warm regards,
+
+Hamza Tahir
+
+
+
+Response for Guideline 2.3 - Performance - Accurate Metadata:
+For accessing the features mentioned, please follow these steps:
+
+First, log in to your account using the provided credentials:
+Number: +923130000000
+Password: 000000 (for HR profile)
+After logging in, you will initially undergo an account review process. Once reviewed, you'll gain access to specific profiles such as Influencer, Dating Coach, HR, Event Staff Check-In, Event Manager, and Onboard Agency.
+Ensure to log out after accessing each profile and then log in again using the same credentials to access different profiles. Screenshots provided are directly from the app's functionality, showcasing all available features.
+Response for Guideline 2.3.3 - Performance - Accurate Metadata:
+All screenshots provided are taken directly from the app's functionality, illustrating its core features accurately. Each screenshot corresponds to the app's behavior on the supported device sizes.
+
+Response for Guideline 4.0 - Design:
+Thank you for your feedback regarding the Sign in with Apple experience. We have made the necessary adjustments to ensure compliance with the design and user experience requirements. Users will no longer be prompted to provide their name or email address after using Sign in with Apple, as this information is now automatically populated through the Authentication Services framework. We appreciate your guidance in enhancing our app's user experience.

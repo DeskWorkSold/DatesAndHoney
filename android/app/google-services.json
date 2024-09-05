@@ -1,0 +1,145 @@
+{
+  "project_info": {
+    "project_number": "604072040126",
+    "project_id": "datesandhoney-50496",
+    "storage_bucket": "datesandhoney-50496.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604072040126:android:b718e2c9615bc14e7cf0ef",
+        "android_client_info": {
+          "package_name": "com.dates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604072040126-aopi95tve5rf5u11fdo4811a3v8listi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dates",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "604072040126-h8dmu5km29t8co8shb2isrkjn4fniqj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOhu2ZunhDNJup7az3m8anvdNwLmkdtV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604072040126-h8dmu5km29t8co8shb2isrkjn4fniqj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604072040126:android:0d8c025b763d4d717cf0ef",
+        "android_client_info": {
+          "package_name": "com.datesandhoney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604072040126-c3hev20hm7i9iqkn0e2nqtddjksafau0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.datesandhoney",
+            "certificate_hash": "5c0c18a4c6997aeec9fe1cd30ccdf7cef12a6ea0"
+          }
+        },
+        {
+          "client_id": "604072040126-ptsrg5g8vru17dok2nn4dlplp4ljj2g4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.datesandhoney",
+            "certificate_hash": "34a952a7798ff8a8f193e69aaeb2178571e8b867"
+          }
+        },
+        {
+          "client_id": "604072040126-h8dmu5km29t8co8shb2isrkjn4fniqj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOhu2ZunhDNJup7az3m8anvdNwLmkdtV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604072040126-h8dmu5km29t8co8shb2isrkjn4fniqj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604072040126:android:197d93d2a35cd84a7cf0ef",
+        "android_client_info": {
+          "package_name": "com.datesandhoneycrew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604072040126-gu27ae7vu48l1e09g9mdmtkvog6iouec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.datesandhoneycrew",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "604072040126-q2il2d0qqnu9g8g91lser019nb9lubpn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.datesandhoneycrew",
+            "certificate_hash": "643ed41776435da0d60e2c9d02e726a66a8a05ae"
+          }
+        },
+        {
+          "client_id": "604072040126-sq0poh4tgt71uri4lcpm9h7s5784ukjf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.datesandhoneycrew",
+            "certificate_hash": "28bb8b627d1613af382e658d834381e003d4c9f0"
+          }
+        },
+        {
+          "client_id": "604072040126-h8dmu5km29t8co8shb2isrkjn4fniqj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOhu2ZunhDNJup7az3m8anvdNwLmkdtV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604072040126-h8dmu5km29t8co8shb2isrkjn4fniqj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
